@@ -19,7 +19,7 @@ N/A
 
 ## Usage
 
-To access the website follow this URL: https://cestsamual.github.io/My-Dev-Portfolio/
+To access the website follow this URL: https://cestsamual.github.io/Bootstrap-Portfolio/
 
 To operate the website simpley click the desired link on the nav bar and it will proceed to the relevant section, and to access the deployed appication click on the relevant button. In the skills section click the accordion tab to acces the content; these all pictured below:
 
