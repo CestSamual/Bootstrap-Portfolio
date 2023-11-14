@@ -1,0 +1,25 @@
+body{
+    font-family: Trebuchet MS, sans-serif;
+}
+
+#main-nav {
+  background-color: #eae7dc !important;
+}
+
+.navbar-brand{
+    color: #e85a4f;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: #e85a4f;
+}
+
+.nav-link, .nav-link.dropdown-toggle{
+    color: #e85a4f;
+    
+}
+
+.navbar-nav{
+    margin-left: auto;
+    margin-right: 0 !important;
+}
